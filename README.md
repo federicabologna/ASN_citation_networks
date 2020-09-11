@@ -1,1 +1,2 @@
-# ASN_citation_networks
+# Analysis of the 2016 ASN citation networks
+
